@@ -71,7 +71,7 @@ Nb : Bot and Userbot are locked by owner ,
      who wish to add this bot to your group,
      then , contact @kk_heaven_hater』
         NB:- 24HRS ASSISTANCE OF bot
-             (for anytime help:- [✞𖤍◣‌⃟⃟⃟⃟⃟࿅‌❰❰⃘꯭꯭Ꭰᴀʀᴋ†💢꛱‌꯭꯭꯭†❰❰꯭꯭꯭ ⃘Ꭰ꯭ᴇᴠᴉɭ✇࿅‌𖤍✞](https://t.me/FULLY_CRUAL_MIND), 
+             for anytime help:- [✞𖤍◣‌⃟⃟⃟⃟⃟࿅‌❰❰⃘꯭꯭Ꭰᴀʀᴋ†💢꛱‌꯭꯭꯭†❰❰꯭꯭꯭ ⃘Ꭰ꯭ᴇᴠᴉɭ✇࿅‌𖤍✞](https://t.me/FULLY_CRUAL_MIND), 
                                   [༂𝄇𖤓࿈കൃഷ്ണതുളസ᭄🌙⸙ꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋ࿈𖤓𝄆༂](https://t.me/KRISHNA_THULSI)""",
         reply_markup=InlineKeyboardMarkup(
             [
